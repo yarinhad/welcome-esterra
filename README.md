@@ -1,6 +1,6 @@
 # esterra - Real Estate Innovation Platform
 
-![esterra Logo](https://example.com/esterra-logo.png) 
+![esterra Logo](./logo/logo-light.png) 
 
 ![GitHub stars](https://img.shields.io/github/stars/esterra/real-estate-platform?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/esterra/real-estate-platform?style=social)
@@ -32,7 +32,7 @@ Esterra was founded with the vision of transforming the way real estate transact
 Our development team is a diverse group of talented professionals passionate about real estate and technology. We combine expertise in software engineering, data science, UX/UI design, and real estate to create innovative solutions tailored to our users' needs.
 
 ## Getting Started
-To start using Esterra, visit our [website](https://www.esterra.com) and sign up for an account. Explore our features, connect with our community, and begin your journey towards a smarter real estate experience.
+To start using Esterra, visit our [website](https://www.esterra.ai) and sign up for an account. Explore our features, connect with our community, and begin your journey towards a smarter real estate experience.
 
 ### How to Contribute
 We welcome contributions from the community! If you have ideas, suggestions, or code to contribute, please check out our [Contributing Guide](https://github.com/esterra/real-estate-platform/blob/main/CONTRIBUTING.md) to get started.
