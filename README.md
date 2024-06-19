@@ -1,6 +1,6 @@
-# Esterra - Real Estate Innovation Platform
+# esterra - Real Estate Innovation Platform
 
-![Esterra Logo](https://example.com/esterra-logo.png) 
+![esterra Logo](https://example.com/esterra-logo.png) 
 
 ![GitHub stars](https://img.shields.io/github/stars/esterra/real-estate-platform?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/esterra/real-estate-platform?style=social)
@@ -11,7 +11,7 @@
 ## Introduction
 Welcome to **esterra**, the forefront of real estate innovation! Our platform is designed to revolutionize the real estate industry by leveraging cutting-edge technology, data analytics, and user-centric solutions. Whether you’re a property owner, investor, agent, or tech enthusiast, Esterra provides the tools and insights you need to succeed in the ever-evolving real estate market.
 
-## About Esterra
+## About esterra
 Esterra was founded with the vision of transforming the way real estate transactions are conducted. We believe in creating a seamless, transparent, and efficient real estate ecosystem that benefits everyone involved. Our mission is to empower our users with innovative solutions that simplify complex processes and enhance decision-making.
 
 ### Our Core Values
@@ -52,5 +52,5 @@ Follow us on:
 
 ---
 
-Thank you for choosing Esterra. Together, we can transform the real estate industry!
+Thank you for choosing esterra. Together, we can transform the real estate industry!
 
